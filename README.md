@@ -11,11 +11,11 @@
 <a href="https://instagram.com/_balu_balaji_g_"><img alt="replit" src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/balu_balaji_g"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/balaji-g-53ba79221/"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<a href="https://github.com/balajig1403/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/balajig1403/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/balajig1403/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/balajig1403/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/balajig1403/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/balajig1403/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/balajig1403/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/balajig1403/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/balajig1403/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/balajig1403/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/balajig1403/BalajiG/stargazers"><img src="https://img.shields.io/github/stars/balajig1403/BalajiG" alt="Stars Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/network/members"><img src="https://img.shields.io/github/forks/balajig1403/BalajiG" alt="Forks Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/pulls"><img src="https://img.shields.io/github/issues-pr/balajig1403/BalajiG" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/issues"><img src="https://img.shields.io/github/issues/balajig1403/BalajiG" alt="Issues Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/balajig1403/BalajiG?color=2b9348"></a>
 <a href="https://github.com/balajig1403/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/balajig1403/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 <br>
 <br>
