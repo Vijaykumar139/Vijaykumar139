@@ -61,7 +61,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Nothing;Currently+Learning+;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!)
 
 ## Follow Me On
 
