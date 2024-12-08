@@ -13,11 +13,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
   
@@ -38,17 +34,11 @@
 <a href="https://www.linkedin.com/in/balaji-g-53ba79221/"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/balajig1403/BalajiG/stargazers"><img src="https://img.shields.io/github/stars/balajig1403/BalajiG" alt="Stars Badge"/></a>
-
-<a href="https://github.com/balajig1403/BalajiG/forks"><img src="https://img.shields.io/github/forks/balajig1403/BalajiG" alt="Forks Badge"/></a>
-
-<a href="https://github.com/balajig1403/BalajiG/pulls"><img src="https://img.shields.io/github/issues-pr/balajig1403/BalajiG" alt="Pull Requests Badge"/></a>
-
-<a href="https://github.com/balajig1403/BalajiG/issues"><img src="https://img.shields.io/github/issues/balajig1403/BalajiG" alt="Issues Badge"/></a>
-
-<a href="https://github.com/balajig1403/BalajiG/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/balajig1403/BalajiG?color=2b9348"></a>
-
-<a href="https://github.com/balajig1403/BalajiG/blob/ddef80192bc4f43bae076f0251da9b32dcf6b6f7/LICENSE"><img src="https://img.shields.io/github/license/balajig1403/BalajiG?color=2b9348" alt="License Badge"/></a>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
 <br>
 <br>
 <p align="center">
@@ -162,16 +152,16 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/balajig1403/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/balajig1403/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/balajig1403/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/balajig1403/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/balajig1403/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/balajig1403/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/balajig1403/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/balajig1403/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/balajig1403/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/balajig1403/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/balajig1403/BalajiG.svg?style=for-the-badge
+[contributors-url]: https://github.com/balajig1403/BalajiG/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/balajig1403/BalajiG.svg?style=for-the-badge
+[forks-url]: https://github.com/balajig1403/BalajiG/network/members
+[stars-shield]: https://img.shields.io/github/stars/balajig1403/BalajiG.svg?style=for-the-badge
+[stars-url]: https://github.com/balajig1403/BalajiG/stargazers
+[issues-shield]: https://img.shields.io/github/issues/balajig1403/BalajiG.svg?style=for-the-badge
+[issues-url]: https://github.com/balajig1403/BalajiG/issues
+[license-shield]: https://img.shields.io/github/license/balajig1403/BalajiG.svg?style=for-the-badge
+[license-url]: https://github.com/balajig1403/BalajiG/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/balaji-g-53ba79221/
 [product-screenshot]: images/screenshot.png
