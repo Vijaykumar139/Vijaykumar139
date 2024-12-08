@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Balaji G](https://github.com/balajig1403/BalajiG/blob/b90c27672c51bab715f75989c8c5aec4f13e8473/Untitled%20design.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Balaji</h2>
 
