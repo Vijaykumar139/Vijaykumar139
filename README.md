@@ -6,23 +6,25 @@
 
 <p align="center">
 <a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt="tryshape licence" />
+<img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt=" licence" />
+  
+<a href="https://github.com/balajig1403/BalajiG/graphs/contributors" target="blank">
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/balajig1403/balajig1403?style=flat-square" alt=" contributors"/>
 
-</a>
 <a href="https://github.com/balajig1403/BalajiG/fork" target="blank">
-<img src="https://img.shields.io/github/forks/balajig1403/balajig1403?style=flat-square" alt="tryshape forks"/>
+<img src="https://img.shields.io/github/forks/balajig1403/balajig1403?style=flat-square" alt="forks"/>
 
 </a>
 <a href="https://github.com/balajig1403/BalajiG/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/balajig1403/balajig1403?style=flat-square" alt="tryshape stars"/>
+<img src="https://img.shields.io/github/stars/balajig1403/balajig1403?style=flat-square" alt="stars"/>
 
 </a>
 <a href="https://github.com/balajig1403/BalajiG/issues" target="blank">
-<img src="https://img.shields.io/github/issues/balajig1403/balajig1403?style=flat-square" alt="tryshape issues"/>
+<img src="https://img.shields.io/github/issues/balajig1403/balajig1403?style=flat-square" alt="issues"/>
 
 </a>
 <a href="https://github.com/balajig1403/BalajiG/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/balajig1403/balajig1403?style=flat-square" alt="tryshape pull-requests"/>
+<img src="https://img.shields.io/github/issues-pr/balajig1403/balajig1403?style=flat-square" alt="pull-requests"/>
 </a>
 </p>
 
