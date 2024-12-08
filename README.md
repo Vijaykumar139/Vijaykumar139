@@ -1,6 +1,9 @@
 ![Balaji G](https://github.com/balajig1403/BalajiG/blob/b90c27672c51bab715f75989c8c5aec4f13e8473/Untitled%20design.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Balaji</h2>
+<h2><a href="https://github.com/balajig1403/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&width=480&height=45&color=#d10095&vCenter=true&pause=1000&size=80" /></a>
+</p><?h2>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!)
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
