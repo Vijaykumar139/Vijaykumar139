@@ -1,6 +1,6 @@
 ![Balaji G](https://github.com/balajig1403/BalajiG/blob/b90c27672c51bab715f75989c8c5aec4f13e8473/Untitled%20design.jpg)
 
-<h2><a href="https://github.com/balajig1403/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&width=480&height=45&color=#d10095&vCenter=true&pause=1000&size=80" /></a>
+<h2><p><a href="https://github.com/balajig1403/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&color=#d10095&vCenter=true&pause=1000&size=80" /></a>
 </p><?h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!)
