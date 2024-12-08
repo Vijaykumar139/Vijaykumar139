@@ -85,7 +85,7 @@
 
   
   <a href="https://github.com/balajig1403/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&width=480&height=45&color=#ff0000&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=G+Balaji&font=Fira%20SemiBold&center=true&width=480&height=45&color=#d10095&vCenter=true&pause=1000&size=80" /></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!)
