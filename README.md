@@ -92,7 +92,7 @@
 </a>
 </p>
 <p align = "center">
-<img width= 90% height= auto align="center" src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,PRs,Issues"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajig1403" alt="balajig1403" /></a> </p>
 
 ### Built With
 
