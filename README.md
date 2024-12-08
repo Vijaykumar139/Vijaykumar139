@@ -4,14 +4,15 @@
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
-<div align="righr">
-![Stars](https://img.shields.io/github/stars/balaji1403/repo?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/balaji1403/repo?style=flat-square&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/balaji1403/repo?style=flat-square&color=yellow)
-![Issues](https://img.shields.io/github/issues/balaji1403/repo?style=flat-square&color=yellow)
-![Contributors](https://img.shields.io/github/contributors/balaji1403/repo?style=flat-square&color=green)
-![License](https://img.shields.io/github/license/balaji1403/repo?style=flat-square&color=brightgreen)
+<div align="right">
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
 </div>
+
+
 
 
 ### 👨🏻‍💻 &nbsp;About Me
