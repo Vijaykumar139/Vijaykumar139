@@ -139,10 +139,9 @@ Don't forget to give the project a star! Thanks again!
 <a href="https://codeforces.com/profile/balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="balubalaji.anb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2is0jvcat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2is0jvcat8" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@balubalaji.anb" height="30" width="40" /></a>
-</p>
-
-<a href=" https://www.linkedin.com/in/balaji-g-53ba79221"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"/></a><a href="balubalaji.anb@gmail.com"><img alt="replit" src="https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="https://telegram.me/balu_balaji_g
-"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red"/></a>
+<a href=" https://www.linkedin.com/in/balaji-g-53ba79221"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"/></a>
+<a href="balubalaji.anb@gmail.com"><img alt="replit" src="https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="https://telegram.me/balu_balaji_g"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red"/></a>
 </p>
 
 
