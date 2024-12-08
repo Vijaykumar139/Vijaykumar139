@@ -92,7 +92,13 @@
 </a>
 </p>
 <p align = "center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img  width= 95% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403" alt="balajig1403" /></a> </p>
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=darkhub" media="(prefers-color-scheme: dark)" />
+  <img width= 95% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=flat" alt="GitHub Trophy" />
+</picture>
+</p>
+<!-- Dark Theme -->
+
 
 ### Built With
 
