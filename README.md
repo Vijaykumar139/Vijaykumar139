@@ -81,9 +81,14 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=balajig1403&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/balajig1403)
-<img width=400 height="50em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajig1403&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><img width=400 height="50em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/><a href="https://github.com/balajig1403"><img width=500 src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<p align="center">
+<a href="https://github.com/balajig1403">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img width=400 height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/><a href="https://github.com/balajig1403">
+    <img width=500 src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
+</a>
+</p>
 
 
 ### Built With
