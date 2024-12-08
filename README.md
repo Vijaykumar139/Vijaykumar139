@@ -4,9 +4,23 @@
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
-![GitHub Gist stars](https://img.shields.io/github/gist/stars/balajig1403%2FBalajiG);
-![GitHub forks](https://img.shields.io/github/forks/balajig1403/BalajiG)
-
+<p align="left">
+<a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/TryShape/tryshape?style=flat-square" alt="tryshape licence" />
+</a>
+<a href="https://github.com/balajig1403/BalajiG/fork" target="blank">
+<img src="https://img.shields.io/github/forks/TryShape/tryshape?style=flat-square" alt="tryshape forks"/>
+</a>
+<a href="https://github.com/balajig1403/BalajiG/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/TryShape/tryshape?style=flat-square" alt="tryshape stars"/>
+</a>
+<a href="https://github.com/balajig1403/BalajiG/issues" target="blank">
+<img src="https://img.shields.io/github/issues/TryShape/tryshape?style=flat-square" alt="tryshape issues"/>
+</a>
+<a href="https://github.com/balajig1403/BalajiG/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/TryShape/tryshape?style=flat-square" alt="tryshape pull-requests"/>
+</a>
+</p>
 
 
 
