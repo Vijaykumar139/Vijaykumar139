@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Balaji</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Balaji -->
+<a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -130,10 +130,17 @@ Don't forget to give the project a star! Thanks again!
 </a>
 </p> -->
 
-## Contact Me 
+## Connect With Me 
 
 
 <p align="center">
+<a href="https://www.codechef.com/users/balu_balaji_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="balu_balaji_g" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@balubalaji_anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@balubalaji_anb" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="balubalaji.anb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/2is0jvcat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2is0jvcat8" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@balubalaji.anb" height="30" width="40" /></a>
+</p>
+
 <a href=" https://www.linkedin.com/in/balaji-g-53ba79221"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"/></a><a href="balubalaji.anb@gmail.com"><img alt="replit" src="https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="https://telegram.me/balu_balaji_g
 "><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red"/></a>
 </p>
