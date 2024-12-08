@@ -4,7 +4,7 @@
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt="tryshape licence" />
 </a>
@@ -92,11 +92,6 @@
 <a href="https://www.linkedin.com/in/balaji-g-53ba79221/"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
 <br>
 <br>
 <p align="center">
