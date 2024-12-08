@@ -90,7 +90,7 @@
 </a>
 </p>
 <p align = "center">
-<img width= 500% height= auto align="center" src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
+<img width= 500% height= auto align="center" src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,PRs,Issues"/>
 
 ### Built With
 
