@@ -95,9 +95,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact Me 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <p align="center">
-<a href="balubalaji.anb@gmail.com"><img alt="replit" src="https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="balubalaji.anb@gmail.com"><img alt="replit" src="https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red"/></a>[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a href="https://telegram.me/balu_balaji_g
 "><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red"/></a>
