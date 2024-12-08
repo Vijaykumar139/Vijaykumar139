@@ -92,7 +92,7 @@
 </a>
 </p>
 <p align = "center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajig1403" alt="balajig1403" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img  width= 95% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403" alt="balajig1403" /></a> </p>
 
 ### Built With
 
@@ -141,8 +141,6 @@ Don't forget to give the project a star! Thanks again!
 <a href="https://codeforces.com/profile/balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="balubalaji.anb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2is0jvcat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2is0jvcat8" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@balubalaji.anb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@balubalaji.anb" height="30" width="40" /></a>
-<a href="balubalaji.anb@gmail.com"><img alt="replit" src="[https://img.shields.io/badge/-GMail-lightblue?style=for-the-badge&logo=gmail&logoColor=red](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg)"/></a>
-<a href="https://telegram.me/balu_balaji_g"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red"/></a>
 </p>
 
 
