@@ -164,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 [contributors-url]: https://github.com/balajig1403/BalajiG/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/balajig1403/BalajiG.svg?style=for-the-badge
 [forks-url]: https://github.com/balajig1403/BalajiG/network/members
-[stars-shield]: https://img.shields.io/github/stars/balajig1403/BalajiG.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/gist/stars/balajig1403%2FBalajiG
 [stars-url]: https://github.com/balajig1403/BalajiG/stargazers
 [issues-shield]: https://img.shields.io/github/issues/balajig1403/BalajiG.svg?style=for-the-badge
 [issues-url]: https://github.com/balajig1403/BalajiG/issues
