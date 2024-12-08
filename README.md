@@ -4,28 +4,8 @@
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
-<div align="center">
-
-<a href="https://github.com/balajig1403/BalajiG/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-<a href="https://github.com/balajig1403/BalajiG/network/members">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-<a href="https://github.com/balajig1403/BalajiG/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-<a href="https://github.com/balajig1403/BalajiG/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-<a href="https://github.com/balajig1403/BalajiG/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-<a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE.txt">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/balajig1403/BalajiG?logo=github&style=for-the-badge"/>
-</a>
-
-</div>
+![GitHub Gist stars](https://img.shields.io/github/gist/stars/balajig1403%2FBalajiG);
+![GitHub forks](https://img.shields.io/github/forks/balajig1403/BalajiG)
 
 
 
