@@ -22,7 +22,7 @@
 
 <a href="https://github.com/balajig1403/BalajiG/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/balajig1403/BalajiG?color=2b9348"></a>
 
-<a href="[https://github.com/balajig1403/BalajiG/tree/main?tab=MIT-1-ov-file#](https://github.com/balajig1403/BalajiG/blob/ddef80192bc4f43bae076f0251da9b32dcf6b6f7/LICENSE)"><img src="https://img.shields.io/github/license/balajig1403/BalajiG?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/blob/ddef80192bc4f43bae076f0251da9b32dcf6b6f7/LICENSE"><img src="https://img.shields.io/github/license/balajig1403/BalajiG?color=2b9348" alt="License Badge"/></a>
 <br>
 <br>
 <p align="center">
