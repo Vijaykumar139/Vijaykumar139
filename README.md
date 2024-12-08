@@ -15,7 +15,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Balaji+G&color=yellow" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=balajig1403&color=yellow" alt="watching_count" />
 </p>
 
 ## GitHub 
