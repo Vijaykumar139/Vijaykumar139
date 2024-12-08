@@ -86,7 +86,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balajig1403&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balajig1403&layout=compact&langs_count=8&theme=algolia"/>
   <img width= 95% height= auto align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/><a href="https://github.com/balajig1403">
-  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
+  <img width= 95% height= auto align="center" src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
 </a>
 </p>
 
