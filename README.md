@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/balaji-g-53ba79221/"><img alt="replit" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/balajig1403/BalajiG/stargazers"><img src="https://img.shields.io/github.com/stars/balajig1403/BalajiG" alt="Stars Badge"/></a>
+<a href="https://github.com/balajig1403/BalajiG/stargazers"><img src="https://img.shields.io/github/stars/balajig1403/BalajiG" alt="Stars Badge"/></a>
 
 <a href="https://github.com/balajig1403/BalajiG/forks"><img src="https://img.shields.io/github/forks/balajig1403/BalajiG" alt="Forks Badge"/></a>
 
