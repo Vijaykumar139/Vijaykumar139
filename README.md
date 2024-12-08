@@ -4,6 +4,16 @@
 
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
+<div align="righr">
+![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/owner/repo?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/owner/repo?style=flat-square&color=yellow)
+![Issues](https://img.shields.io/github/issues/owner/repo?style=flat-square&color=yellow)
+![Contributors](https://img.shields.io/github/contributors/owner/repo?style=flat-square&color=green)
+![License](https://img.shields.io/github/license/owner/repo?style=flat-square&color=brightgreen)
+</div>
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
