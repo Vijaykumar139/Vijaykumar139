@@ -1,7 +1,8 @@
 ![Balaji G](https://github.com/balajig1403/BalajiG/blob/b90c27672c51bab715f75989c8c5aec4f13e8473/Untitled%20design.jpg)
-<h2>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!)
-</h2>
+
+<h2><p><a href="https://github.com/balajig1403/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+Am+Something+Which+You+Can't+Describe;Currently+Learning+;Thank+You!&font=Fira%20SemiBold&center=true&color=#000000f&vCenter=true&pause=1000&size=25" /></a>
+</p><?h2>
+  
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
 <p width=100% height=auto align="center">
