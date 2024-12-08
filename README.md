@@ -20,7 +20,7 @@
 
 ## GitHub 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Balaji+G &hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/balajig1403)
+[![Stats](https://github-readme-stats.vercel.app/api?username=balajig1403&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/balajig1403)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajig1403&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/balajig1403"><img width=550 src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
