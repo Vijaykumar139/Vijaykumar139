@@ -107,7 +107,7 @@
 <a href="https://github.com/balajig1403">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balajig1403&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balajig1403&layout=compact&langs_count=8&theme=algolia"/>
-  <img width= 100% height= auto align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/></a> 
+  <img width= 100% height= auto align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=chartreuse-dark" alt="mystreak"/>
   
 
 </a>
@@ -115,7 +115,7 @@
 <p align = "center">
 <picture>
   <source srcset="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=darkhub" media="(prefers-color-scheme: dark)" />
-  <img width= 90% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=flat" alt="GitHub Trophy" />
+  <img width= 95% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=flat" alt="GitHub Trophy" />
 </picture>
 </p>
 <!-- Dark Theme -->
