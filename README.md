@@ -9,8 +9,6 @@
 <a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt=" licence" />
   
-<a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
-
 <a href="https://github.com/balajig1403/balajig1403/graphs/contributors" target="blank">
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/balajig1403/balajig1403?style=flat-square" alt=" contributors"/>
 
