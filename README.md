@@ -28,7 +28,13 @@
 <img src="https://img.shields.io/github/issues-pr/balajig1403/balajig1403?style=flat-square" alt="pull-requests"/>
 </a>
 </p>
-
+![GitHub issues](https://img.shields.io/github/issues/balajig1403)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/balajig1403/VideoCompress)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/balajig1403/VideoCompress)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/balajig1403/VideoCompress)
+![GitHub contributors](https://img.shields.io/github/contributors/balajig1403/VideoCompress?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/balajig1403/VideoCompress?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/balajig1403/VideoCompress)
 
 
 
