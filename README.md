@@ -19,27 +19,27 @@
 </a>
 
 <a href="https://github.com/balajig1403/balajig1403/issues" target="_blank">
-  <img src="https://img.shields.io/github/issues/balajig1403" alt="GitHub Issues"/>
+  <img src="https://img.shields.io/github/issues/balajig1403/balajig1403" alt="GitHub Issues"/>
 </a>
 
 <a href="https://github.com/balajig1403/VideoCompress/issues?q=is%3Aissue+is%3Aclosed" target="_blank">
-  <img src="https://img.shields.io/github/issues-closed/balajig1403" alt="GitHub Closed Issues"/>
+  <img src="https://img.shields.io/github/issues-closed/balajig1403/balajig1403" alt="GitHub Closed Issues"/>
 </a>
 
 <a href="https://github.com/balajig1403/pulls" target="_blank">
-  <img src="https://img.shields.io/github/issues-pr/balajig1403" alt="GitHub Pull Requests"/>
+  <img src="https://img.shields.io/github/issues-pr/balajig1403/balajig1403" alt="GitHub Pull Requests"/>
 </a>
 
 <a href="https://github.com/balajig1403/pulls?q=is%3Apr+is%3Aclosed" target="_blank">
-  <img src="https://img.shields.io/github/issues-pr-closed/balajig1403" alt="GitHub Closed Pull Requests"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/balajig1403/balajig1403" alt="GitHub Closed Pull Requests"/>
 </a>
 
 <a href="https://github.com/balajig1403" target="_blank">
-  <img src="https://img.shields.io/github/repo-size/balajig1403?color=red&style=flat-square" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/repo-size/balajig1403/balajig1403?color=red&style=flat-square" alt="Repo Size"/>
 </a>
 
 <a href="https://github.com/balajig1403" target="_blank">
-  <img src="https://img.shields.io/github/commit-activity/m/balajig1403?style=flat-square" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/commit-activity/m/balajig1403/balajig1403?style=flat-square" alt="Commit Activity"/>
 </a>
 
 </p>
