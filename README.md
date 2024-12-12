@@ -27,14 +27,15 @@
 <a href="https://github.com/balajig1403/BalajiG/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/balajig1403/balajig1403?style=flat-square" alt="pull-requests"/>
 </a>
-</p>
-
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/balajig1403)
 
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/balajig1403/VideoCompress)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/balajig1403/VideoCompress?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/balajig1403/VideoCompress)
+</p>
+
+
 
 
 
