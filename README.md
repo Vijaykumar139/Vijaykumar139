@@ -3,7 +3,7 @@
 <h2>
   <p align="center">
     <a href="https://github.com/balajig1403/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+am+Something+Which+You+Can%27t+Describe;Currently+Learning;Thank+You!&font=Fira%20SemiBold&center=true&color=black&pause=1000&size=30&width=700&height=50" />
+      <img src="https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Balaji+G;I+am+Something+Which+You+Can%27t+Describe;Currently+Learning;Thank+You!+For+Visiting+!&font=Fira%20SemiBold&center=true&color=black&pause=1000&size=30&width=700&height=50" />
     </a>
   </p>
 </h2>
