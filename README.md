@@ -11,20 +11,20 @@
   
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
 
-<p width=100% height=auto align="center">
+
+<p align="center">
 <a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
 
-<a href="https://github.com/balajig1403/BalajiG/blob/master/LICENSE" target="blank">
+<p width=100% height=auto align="center">
+<a href="https://github.com/balajig1403/balajig1403/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt=" licence" />
-
 <a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 <a href="https://github.com/balajig1403"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/grabcam?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/balajig1403"><img title="Watching" src="https://img.shields.io/github/watchers/balajig1403/grabcam?label=Watchers&color=blue&style=flat-square"></a>
 
-
-  
 <a href="https://github.com/balajig1403/balajig1403/graphs/contributors" target="blank">
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/balajig1403/balajig1403?style=flat-square" alt=" contributors"/>
 
