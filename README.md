@@ -140,7 +140,7 @@
 <a href="https://github.com/balajig1403">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balajig1403&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balajig1403&layout=compact&langs_count=8&theme=algolia"/>
-  <img width= 90% height= auto align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403" alt="mystreak"/>
+  <img width= 90% height= auto align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajig1403&theme=darkhub" media="(prefers-color-scheme: dark)" alt="mystreak"/>
   
 </a>
 
