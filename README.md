@@ -148,7 +148,7 @@
 <p align = "center">
 <picture>
   <source srcset="https://github-profile-trophy.vercel.app/?username=balajig1403"/>
-  <img width= 90% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=algolia" alt="GitHub Trophy" />
+  <img width= 90% height= auto src="https://github-profile-trophy.vercel.app/?username=balajig1403&theme=algolia" media="(prefers-color-scheme: dark)"  alt="GitHub Trophy" />
 </picture>
 </p>
 <!-- Dark Theme -->
