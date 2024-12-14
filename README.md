@@ -19,11 +19,11 @@
 <p width=100% height=auto align="center">
 <a href="https://github.com/balajig1403/balajig1403/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/balajig1403/balajig1403?style=flat-square" alt=" licence" />
-<a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
+<!-- <a href="https://bit.ly/2BNk3P1"><img title="Tool" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a> -->
 <!-- <a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 <a href="https://github.com/balajig1403"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a> -->
-<a href="https://github.com/balajig1403/balajig1403"><img title="Watching" src="https://img.shields.io/github/watchers/balajig1403/grabcam?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/balajig1403"><img title="Watching" src="https://img.shields.io/github/watchers/balajig1403/balajig1403?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/sponsors/balajig1403"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"></a>
 <a href="https://github.com/balajig1403/balajig1403/graphs/contributors" target="blank">
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/balajig1403/balajig1403?style=flat-square" alt=" contributors"/>
