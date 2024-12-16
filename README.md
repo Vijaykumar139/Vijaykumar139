@@ -7,10 +7,8 @@
     </a>
   </p>
 </h2>
-
   
 <a href="https://github.com/balajig1403"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbalajig1403&longCache=true"/></a>
-
 
 <p width=100% height=auto align="center">
 <a href="https://github.com/balajig1403/balajig1403"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -57,7 +55,6 @@
 <a href="https://github.com/balajig1403" target="_blank">
   <img src="https://img.shields.io/github/commit-activity/m/balajig1403/balajig1403?style=flat-square" alt="Commit Activity"/>
 </a>
-
 </p>
 
 
