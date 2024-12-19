@@ -2,12 +2,12 @@
 
 # Contributing Guide
 
-You can contribute to `balajig1403` and help make it better. Apart from bug fixes,
+You can contribute to `Vijaykumar139` and help make it better. Apart from bug fixes,
 features, we particularly value contributions in the form of:
 
 - Documentation improvements
 - Bug reports
-- Using `balajig1403` in your projects and providing feedback
+- Using `Vijaykumar139` in your projects and providing feedback
 
 ## How to contribute
 
@@ -66,7 +66,7 @@ Install build tools
 make dev-setup
 ```
 
-Generate code from API specs and build `balajig1403`
+Generate code from API specs and build `Vijaykumar139`
 
 ```bash
 make
@@ -75,7 +75,7 @@ make
 Quick build without regenerating code from API specs
 
 ```bash
-make quick-balajig1403
+make quick-Vijaykumar139
 ```
 
 ### Run Tests
